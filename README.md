@@ -3,7 +3,7 @@ A digital survey designed to bridge the gap between students and vendors—helpi
 
 ## Tech Stack
 Frontend:
-HTML 5 - page structure
+<li> HTML 5 - page structure </li>
 CSS - custom styling across multiple stylesheets
 Javascript - form validation and animation
 
