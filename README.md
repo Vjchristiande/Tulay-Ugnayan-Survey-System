@@ -2,14 +2,16 @@
 A digital survey designed to bridge the gap between students and vendors—helping both sides share their experiences, understand each other, and build a better community together
 
 ## Tech Stack
-Frontend:
+<ul> Frontend:
 <li> HTML 5 - page structure </li>
-CSS - custom styling across multiple stylesheets
-Javascript - form validation and animation
+<li> CSS - custom styling across multiple stylesheets </li>
+<li> Javascript - form validation and animation </li>
+</ul>
 
-Backend:
-PHP - server side logic, form processing, authentication, etc.
-mySQL - database
+<ul> Backend:
+<li> PHP - server side logic, form processing, authentication, etc. </li>
+<li> mySQL - database </li>
+</ul>
 
 ## Developers
 Avellana, Mark Grason
