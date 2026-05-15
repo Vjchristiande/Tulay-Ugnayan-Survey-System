@@ -1,7 +1,7 @@
 # Tulay-Ugnayan-Survey-System
 A digital survey designed to bridge the gap between students and vendors—helping both sides share their experiences, understand each other, and build a better community together
 
-# Tech Stack
+## Tech Stack
 Frontend:
 HTML 5 - page structure
 CSS - custom styling across multiple stylesheets
@@ -11,7 +11,7 @@ Backend:
 PHP - server side logic, form processing, authentication, etc.
 mySQL - database
 
-# Developers
+## Developers
 Avellana, Mark Grason
 Alvarez, Neco
 Cabales, Angel Mharkie
@@ -28,6 +28,7 @@ Montojo, Venize Mica
 ## Preview Student
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/14945822-8641-4c0a-a56f-acbb5d3819a6" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7a7c9e14-d017-4309-96bd-f995e95aef59" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6e57947d-43e3-4cce-9fca-1ae2353ac2d2" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a0c752cf-549f-4678-a27c-a8c24327efe8" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/25aacf2c-5334-4e47-bb99-6bb7febf72fc" />
 
