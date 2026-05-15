@@ -14,11 +14,11 @@ A digital survey designed to bridge the gap between students and vendors—helpi
 </ul>
 
 ## Developers
-Avellana, Mark Grason
-Alvarez, Neco
-Cabales, Angel Mharkie
-De Vera, Jim Christian 
-Montojo, Venize Mica
+<li> Avellana, Mark Grason </li>
+<li> Alvarez, Neco </li>
+<li> Cabales, Angel Mharkie </li>
+<li> De Vera, Jim Christian </li>
+<li> Montojo, Venize Mica </li>
  
 ## Preview Vendor
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b09542e9-508c-408b-a5b8-faf3dad78333" />
