@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/79d07564-b3f4-498a-8933-0b3c2330d52c" /># Tulay-Ugnayan-Survey-System
+# Tulay-Ugnayan-Survey-System
 A digital survey designed to bridge the gap between students and vendors—helping both sides share their experiences, understand each other, and build a better community together
 
 # Tech Stack
