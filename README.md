@@ -2,23 +2,27 @@
 A digital survey designed to bridge the gap between students and vendors—helping both sides share their experiences, understand each other, and build a better community together
 
 ## Tech Stack
-<ul> Frontend:
+Frontend:
+<ul> 
 <li> HTML 5 - page structure </li>
 <li> CSS - custom styling across multiple stylesheets </li>
 <li> Javascript - form validation and animation </li>
 </ul>
 
-<ul> Backend:
+Backend:
+<ul> 
 <li> PHP - server side logic, form processing, authentication, etc. </li>
 <li> mySQL - database </li>
 </ul>
 
 ## Developers
+<ul>
 <li> Avellana, Mark Grason </li>
 <li> Alvarez, Neco </li>
 <li> Cabales, Angel Mharkie </li>
 <li> De Vera, Jim Christian </li>
 <li> Montojo, Venize Mica </li>
+ </ul>
  
 ## Preview Vendor
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b09542e9-508c-408b-a5b8-faf3dad78333" />
